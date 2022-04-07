@@ -3,9 +3,9 @@
 <head>
     <meta charset='UTF-8'>
     <title>Добро пожаловать!</title>
-    <script type="text/javascript" src="labaIP/jquery-3.6.0.js"></script>
-    <link rel="stylesheet" href="labaIP/style.css">
-    <script type="text/javascript" src="labaIP/scripts_lab_3.js"></script>
+    <script type="text/javascript" src="labaIP/scripts/jquery-3.6.0.js"></script>
+    <link rel="stylesheet" href="labaIP/styles/style.css">
+    <script type="text/javascript" src="labaIP/scripts/scripts_lab_3.js"></script>
 
 
 </head>
