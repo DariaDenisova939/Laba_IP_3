@@ -1,6 +1,6 @@
 let numberImage=1;
 const countImage=3;
-const pathImages = "labaIP/images/gallery/";
+const pathImages = "../images/gallery/";
 const countDiv = 50;
 const speed = 100;
 function generateImg(){
