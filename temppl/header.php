@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="/styles/style.css">
     <script type="text/javascript" src="/scripts/jquery-3.6.0.js"></script>
     <script type="text/javascript" src="/scripts/scripts_lab_3.js"></script>
+    <script type="text/javascript" src="/scripts/scripts_for_game.js"></script>
 </head>
 <div class="main_content">
     <div class="block_page_one">
@@ -21,6 +22,7 @@
                 <body link="red" vlink="#cecece" alink="#ff0000" bgcolor="black">
                     <li><button class="menu_button" onclick="window.location.href = '/index.php';">Home page</button></li>
                     <li><button class="menu_button" onclick="window.location.href = '/gallery.php';">Gallery</button></li>
+                    <li><button class="menu_button" onclick="window.location.href = '/page_game.php';">My game</button></li>
                 </body>
                 <?php
                     if(isset($_SESSION['auth'])){
